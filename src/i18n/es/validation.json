@@ -1,0 +1,11 @@
+{
+  "NOT_EMPTY": "{property} no puede estar vacío",
+  "IS_STRING": "{property} debe ser una cadena de texto",
+  "IS_BOOLEAN": "{property} debe ser un booleano",
+  "IS_UUIDV4": "{property} debe ser un UUID V4",
+  "IS_ARRAY": "{property} debe ser un arreglo",
+  "IS_NUMBER": "{property} debe ser un número",
+  "IS_ENUM": "{property} contiene un valor inválido. Los valores permitidos son {allowedValues}",
+  "MIN_STRING": "La entrada no cumple con la longitud mínima requerida",
+  "MAX_STRING": "La entrada no cumple con la longitud máxima requerida"
+}

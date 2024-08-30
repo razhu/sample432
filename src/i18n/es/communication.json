@@ -1,0 +1,7 @@
+{
+  "ANNOUNCEMENT_WORKER_NOT_FOUND": "No se encontró ninguna cuenta de trabajador aplicable bajo estos criterios.",
+  "ZIPCODE_DATA_NOT_FOUND": "No se encontraron datos bajo este código postal",
+  "ANNOUNCEMENT_DEFAULT_MESSAGE_ADDED": "Has sido añadido a un grupo de chat",
+  "MESSAGE_TENANT_ADMIN_NOT_FOUND": "No se encontró el administrador del inquilino",
+  "MILES_AND_ZIPCODE_TOGETHER_OR_NONE": "Tanto zipCode como withInMiles deben tener valores o ambos deben estar vacíos"
+}

@@ -1,0 +1,11 @@
+#FROM node:14.15 AS development
+FROM  --platform=linux/amd64 node:18.16.1-slim AS development
+WORKDIR /app
+COPY package.json ./
+RUN npm install
+COPY . .
+
+EXPOSE 3001
+# migrate-and-run | run-only
+# run only makes sub sequent loads faster during development
+CMD [ "npm", "run", "migrate-and-run" ]

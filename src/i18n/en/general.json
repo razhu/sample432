@@ -1,0 +1,8 @@
+{
+  "GUEST_INVALID_USER_TYPE": "Invalid user type provided. Allowed values are (worker, customer_admin, tenant_admin)",
+  "S3_GENERATE_THUMBNAIL_FAILED": "Error generating thumbnail",
+  "S3_UNSUPPORTED_FILETYPE": "Unsupported type provided for file download",
+  "INVALID_DATE_FORMAT": "Invalid date format provided. Expected format is 2024-01-30T17:16:55+0000",
+  "CHECKOUT_TIME_INVALID": "Invalid checkout time provided",
+  "CHECKIN_TIME_INVALID": "Invalid checkin time provided"
+}

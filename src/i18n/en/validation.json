@@ -1,0 +1,11 @@
+{
+  "NOT_EMPTY": "{property} cannot be empty",
+  "IS_STRING": "{property} must be a string",
+  "IS_BOOLEAN": "{property} must be a boolean",
+  "IS_UUIDV4": "{property} must be a UUID V4",
+  "IS_ARRAY": "{property} must be an array",
+  "IS_NUMBER": "{property} must be a number",
+  "IS_ENUM": "{property} contains invalid value. Allowed values are {allowedValues}",
+  "MIN_STRING": "The input does not meet the required minimum length",
+  "MAX_STRING": "The input does not meet the required maximum length"
+}

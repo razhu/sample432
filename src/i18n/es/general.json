@@ -1,0 +1,8 @@
+{
+  "GUEST_INVALID_USER_TYPE": "Se proporcionó un tipo de usuario no válido. Los valores permitidos son (worker, customer_admin, tenant_admin)",
+  "S3_GENERATE_THUMBNAIL_FAILED": "Error al generar miniatura",
+  "S3_UNSUPPORTED_FILETYPE": "Tipo no admitido proporcionado para la descarga de archivos",
+  "INVALID_DATE_FORMAT": "Se proporcionó un formato de fecha no válido. El formato esperado es 2024-01-30T17:16:55+0000",
+  "CHECKOUT_TIME_INVALID": "Hora de salida no válida proporcionada",
+  "CHECKIN_TIME_INVALID": "Hora de check-in no válida proporcionada"
+}

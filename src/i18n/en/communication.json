@@ -1,0 +1,7 @@
+{
+  "ANNOUNCEMENT_WORKER_NOT_FOUND": "No applicable worker account under this criteria found",
+  "ZIPCODE_DATA_NOT_FOUND": "No data found under this zipcode",
+  "ANNOUNCEMENT_DEFAULT_MESSAGE_ADDED": "You have been added to a chat group",
+  "MESSAGE_TENANT_ADMIN_NOT_FOUND": "Tenant admin not found",
+  "MILES_AND_ZIPCODE_TOGETHER_OR_NONE": "Both zipCode and withInMiles should have values or both should be empty"
+}

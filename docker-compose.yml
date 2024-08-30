@@ -1,0 +1,23 @@
+version: '3.5'
+
+services:
+  gw-api-v3:
+    container_name: gw-api-v3
+    build:
+      context: .
+      dockerfile: ./Dockerfile.dev
+    #    command: npm run start:debug
+    ports:
+      - 3001:3001
+      - 9229:9229
+    networks:
+      - gw-network
+    volumes:
+      - .:/app
+      - /app/node_modules
+    restart: unless-stopped
+
+networks:
+  gw-network:
+    name: gw-network
+    external: true
